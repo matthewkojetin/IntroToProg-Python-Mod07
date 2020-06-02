@@ -1,8 +1,8 @@
-Matthew Kojetin
-06/1/20
-IT FDN 100 A
-Assignment 07
-https://github.com/matthewkojetin/IntroToProg-Python-Mod07
+Matthew Kojetin  
+06/01/20  
+IT FDN 100 A  
+Assignment 07  
+https://github.com/matthewkojetin/IntroToProg-Python-Mod07  
 
 # Module 07: Pickling and structured error handling
 ## Introduction
@@ -71,12 +71,12 @@ except:
 
 Then I use a `while(True)` loop to present the menu of options to the user until option 3 is selected. If options 1 or 2 are entered, the if/elif statements contain the appropriate IO and processing functions to complete the task selected.
 
-The script runs in PyCharm (Figure 6).
-<img src="Capture1.PNG">
+The script runs in PyCharm (Figure 6).  
+<img src="Capture1.PNG">  
 ***Figure 6. Script running in PyCharm.***
 
-The script runs in the Windows command prompt (Figure 7).
-<img src="Capture2.png">
+The script runs in the Windows command prompt (Figure 7).  
+<img src="Capture2.PNG">  
 ***Figure 7. Script running in Windows command prompt.***
 
 ## Summary
